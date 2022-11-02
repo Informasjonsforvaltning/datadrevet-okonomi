@@ -1,7 +1,7 @@
 include::locale/attributes.adoc[]
 = Stortingsmelding om datadrevet økonomi og innovasjon. Innspillseminar for aktører i offentlig sektor 31. mars 2020 kl. 9-11.30 - OPPSUMMERING
 Digitaliseringsdirektoratet
-:description: Mal for bruk til nye spesifikasjoner som er laga i asciidoc.
+:description: Innspill til Stortingsmeldingen "Data som ressurs"
 :doctype: book
 :docinfo:
 :icons: font
